@@ -1,4 +1,4 @@
-# Django-Ecommerce_
+
 
 # E-Commerce Site
 
@@ -107,6 +107,10 @@ python manage.py createsuperuser
    - Users can place orders for the products in their cart.
    - Admins can view and manage orders.
 
+## Output
+
+You can see a preview of the project [here](https://preview.colorlib.com/theme/fashe/index.html).
+
 ## Contributing
 
 We welcome contributions to improve this project. Here’s how you can help:
@@ -127,3 +131,4 @@ If you have any questions or need further assistance, feel free to reach out to 
 
 - Email: karthikan3004@gmail.com
 - GitHub: [karthikkarthi-Ghost](https://github.com/karthikkarthi-Ghost)
+
